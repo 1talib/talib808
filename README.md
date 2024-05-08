@@ -21,7 +21,7 @@
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b>  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
- <img src ="https://github.com/talib789/talib789/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" /> 
+ <img src ="https://github.com/talib808/talib808/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" /> 
  <hr>
  <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Tech Stack..</h4>
 <p>
@@ -73,72 +73,72 @@
 </p>
   <hr>
   <h4><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h4>
-   <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />
+   <img src="https://github.com/talib808/talib808/blob/main/Images/line.gif?raw=true" width="30" />
 <p align="center">
   <a href="https://www.linkedin.com/in/md-talib-ansari-117483213/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a title="taalibullah789@gmail.com" href="mailto:taalibullah789@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
+  <a title="taalibullah808@gmail.com" href="mailto:taalibullah808@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
   <a href="https://wa.me/918084703458" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
    <a href="https://hashnode.com/@Talib">
     <img align="center" src="https://www.bing.com/th?id=OIP.4sfe-UEhKSnVolP0gr9lxQAAAA&w=212&h=212&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2" height="28" width= "80"/>
   </a>
 </p>
 
- <!--  <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Connect with me ...
- <img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70"/>
+ <!--  <img src="https://github.com/talib808/talib808/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Connect with me ...
+ <img src="https://github.com/talib808/talib808/blob/main/Images/handshake.gif?raw=true" width="70"/>
  
 <p>
   <a href="https://wa.me/918084703458">
-   <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/whatspp.jpeg" width="36px"/>
+   <img align="left" src="https://github.com/talib808/talib808/blob/main/Images/whatspp.jpeg" width="36px"/>
   </a>
    <a href="https://twitter.com/MdTalib57200313">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/twitter.svg" width="40px" />
+    <img align="left" src="https://github.com/talib808/talib808/blob/main/Images/twitter.svg" width="40px" />
   </a>
-  <a href="mailto:taalibullah789@gmail.com">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/mail.png?raw=true" width="38px"  />
+  <a href="mailto:taalibullah808@gmail.com">
+    <img align="left" src="https://github.com/talib808/talib808/blob/main/Images/mail.png?raw=true" width="38px"  />
   </a>
   <a href="https://www.linkedin.com/in/md-talib-ansari-117483213/">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="40px" />
+    <img align="left" src="https://github.com/talib808/talib808/blob/main/Images/linked-in-alt.svg" width="40px" />
   </a>
   <a href="https://leetcode.com/taalibullah786/">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/leetcode.png?raw=true" width="35px"  />
+    <img align="left" src="https://github.com/talib808/talib808/blob/main/Images/leetcode.png?raw=true" width="35px"  />
   </a>
    <a href="https://hashnode.com/@Talib">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/icon.png?raw=true" width="35px"  />
+    <img align="left" src="https://github.com/talib808/talib808/blob/main/Images/icon.png?raw=true" width="35px"  />
   </a>
 </p> -->
 
 <br>&nbsp;&nbsp;
 <hr>
 <h4 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{talib789}/count.svg" alt="talib789 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{talib808}/count.svg" alt="talib808 :: Visitor's Count" /></p>
 <hr>
  <img align="right" width=220px height=220px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p align="left">
-<img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i><b>🐱My Github stats:</b></i> 
+<img src="https://github.com/talib808/talib808/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
 <p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=talib789&theme=chartreuse-dark" width="500" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=talib808&theme=chartreuse-dark" width="500" />
 </p>
 <p>
-<a href="https://github.com/talib789"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talib789&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=talib789&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<a href="https://github.com/talib808"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talib808&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=talib808&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr clear="both">
  <br/>
 <p align="center">
-<a href="https://github.com/talib789"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talib789&theme=dracula" />
+<a href="https://github.com/talib808"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talib808&theme=dracula" />
 </span></a> </p>
  <br/>
- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=talib789&theme=chartreuse-dark" width="680px" /> </p>
+ <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=talib808&theme=chartreuse-dark" width="680px" /> </p>
  <br/>
  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=talib789&theme=chartreuse-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=talib808&theme=chartreuse-dark)
 <hr clear="both">
 
-<img src = 'https://github.com/talib789/talib789/blob/main/Images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
+<img src = 'https://github.com/talib808/talib808/blob/main/Images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
 
 ###  😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
